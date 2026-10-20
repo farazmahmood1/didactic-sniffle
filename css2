@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Geologica';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/geologica/v5/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD0HrQ-M.ttf) format('truetype');
+}

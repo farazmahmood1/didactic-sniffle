@@ -1,0 +1,344 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\ajax\libs\animate.css\3.4.0\animate.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Geologica:wght@300&display=swap
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Geologica:300normal
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/geologica/v5/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD0Hrc-QSBQ.ttf
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\s\geologica\v5\oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD0Hrc-QSBQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/geologica/v5/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD0HrQ-M.ttf
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\s\geologica\v5\oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD0HrQ-M.ttf
+Content Type: font/ttf
+
+Uri: https://goldendayfilms.com/
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\index.htm
+Content Type: text/html
+
+Uri: https://goldendayfilms.com/about
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\about.html
+Content Type: text/html
+
+Uri: https://goldendayfilms.com/contact
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\contact.html
+Content Type: text/html
+
+Uri: https://goldendayfilms.com/experience
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\experience.html
+Content Type: text/html
+
+Uri: https://goldendayfilms.com/gallery
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\gallery.html
+Content Type: text/html
+
+Uri: https://lib.showit.com/engine/2.8.0/showit-lib.min.js
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\engine\2.8.0\showit-lib.min.js
+Content Type: text/javascript
+
+Uri: https://lib.showit.com/engine/2.8.0/showit.css
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\engine\2.8.0\showit.css
+Content Type: text/css
+
+Uri: https://lib.showit.com/engine/2.8.0/showit.min.js
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\engine\2.8.0\showit.min.js
+Content Type: text/javascript
+
+Uri: https://static.showit.co/1200/Bv7ipOkaCOi_YSrq2FyYbQ/shared/grid-02.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\1200\Bv7ipOkaCOi_YSrq2FyYbQ\shared\grid-02.png
+Content Type: image/png
+
+Uri: https://static.showit.co/1200/bYW6y8zf8UhDtXxAr9C_lQ/shared/golden_day_brand_identity_background_1.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\1200\bYW6y8zf8UhDtXxAr9C_lQ\shared\golden_day_brand_identity_background_1.png
+Content Type: image/png
+
+Uri: https://static.showit.co/1200/fM4aMIKGUmVoia4ifC_pww/shared/pexels-834934396-20818881.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\1200\fM4aMIKGUmVoia4ifC_pww\shared\pexels-834934396-20818881.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/1200/GPExk3M3a3BSUdNMVAuydQ/shared/golden_day_brand_stripes.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\1200\GPExk3M3a3BSUdNMVAuydQ\shared\golden_day_brand_stripes.png
+Content Type: image/png
+
+Uri: https://static.showit.co/1200/HU81KMOOlOQkNJ-A5VbUsw/shared/golden_day_brand_stripe_background_blue.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\1200\HU81KMOOlOQkNJ-A5VbUsw\shared\golden_day_brand_stripe_background_blue.png
+Content Type: image/png
+
+Uri: https://static.showit.co/1200/nh1iTjtRSheHEDiSRX-N3Q/shared/paper-texture-background-5.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\1200\nh1iTjtRSheHEDiSRX-N3Q\shared\paper-texture-background-5.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/1200/vpTamNrH6cHnB338lkhbFg/shared/golden_day_brand_identitystripe_background_pink.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\1200\vpTamNrH6cHnB338lkhbFg\shared\golden_day_brand_identitystripe_background_pink.png
+Content Type: image/png
+
+Uri: https://static.showit.co/1200/x89Tv-R_Qb6HoXjkZCrHdA/shared/paper_1.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\1200\x89Tv-R_Qb6HoXjkZCrHdA\shared\paper_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/1200/ZkDOSOch95tqyQ3cYpBHbw/shared/golden_day_films_notebook.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\1200\ZkDOSOch95tqyQ3cYpBHbw\shared\golden_day_films_notebook.png
+Content Type: image/png
+
+Uri: https://static.showit.co/1200/zWWErTgWqHyGKl4dHYyAeg/shared/golden_day_brand_background_fish_pink.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\1200\zWWErTgWqHyGKl4dHYyAeg\shared\golden_day_brand_background_fish_pink.png
+Content Type: image/png
+
+Uri: https://static.showit.co/1600/fM4aMIKGUmVoia4ifC_pww/shared/pexels-834934396-20818881.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\1600\fM4aMIKGUmVoia4ifC_pww\shared\pexels-834934396-20818881.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/200/1fBVsL2yKTWcgYLvkAo3GA/shared/the_ramos_-_golden_day_films.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\200\1fBVsL2yKTWcgYLvkAo3GA\shared\the_ramos_-_golden_day_films.png
+Content Type: image/png
+
+Uri: https://static.showit.co/200/BI8vs51b0F37Dj2Uc1qKRg/shared/the_shuggs_-_golden_day_films.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\200\BI8vs51b0F37Dj2Uc1qKRg\shared\the_shuggs_-_golden_day_films.png
+Content Type: image/png
+
+Uri: https://static.showit.co/200/dKCNoKlElYZunDm8ls7_LA/334783/4.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\200\dKCNoKlElYZunDm8ls7_LA\334783\4.png
+Content Type: image/png
+
+Uri: https://static.showit.co/200/g3LIvdGPM79sW6dS4JDJFg/shared/the_mathews_-_golden_day_films.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\200\g3LIvdGPM79sW6dS4JDJFg\shared\the_mathews_-_golden_day_films.png
+Content Type: image/png
+
+Uri: https://static.showit.co/200/msTF6cRariDUrs3dfZgbtg/shared/the_shomakers_-_golden_day_films.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\200\msTF6cRariDUrs3dfZgbtg\shared\the_shomakers_-_golden_day_films.png
+Content Type: image/png
+
+Uri: https://static.showit.co/200/n3_JAp35HynePFRYsFEvkQ/shared/golden_day_films_-18.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\200\n3_JAp35HynePFRYsFEvkQ\shared\golden_day_films_-18.png
+Content Type: image/png
+
+Uri: https://static.showit.co/200/ORIy3mTAmamAMxuwF5s2Fg/shared/shell_07_golden_day_sand_4x.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\200\ORIy3mTAmamAMxuwF5s2Fg\shared\shell_07_golden_day_sand_4x.png
+Content Type: image/png
+
+Uri: https://static.showit.co/200/Rapn_lUTXxvawS363xBYAg/shared/the_kohlschreibers.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\200\Rapn_lUTXxvawS363xBYAg\shared\the_kohlschreibers.png
+Content Type: image/png
+
+Uri: https://static.showit.co/200/ReFhC1afRaA_k4uQrJKYsQ/shared/dsc00218-3_2.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\200\ReFhC1afRaA_k4uQrJKYsQ\shared\dsc00218-3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/200/V5eB1_bUlLWptrOTM_jmMg/shared/coral_02_golden_day_sunshine_4x.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\200\V5eB1_bUlLWptrOTM_jmMg\shared\coral_02_golden_day_sunshine_4x.png
+Content Type: image/png
+
+Uri: https://static.showit.co/200/VCqX7VzqJhPZ_HQGJ0vchw/shared/golden_day_films_-17.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\200\VCqX7VzqJhPZ_HQGJ0vchw\shared\golden_day_films_-17.png
+Content Type: image/png
+
+Uri: https://static.showit.co/200/YTQkedy2F60QPgEqmHokGQ/shared/the_pages_-_golden_day_films.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\200\YTQkedy2F60QPgEqmHokGQ\shared\the_pages_-_golden_day_films.png
+Content Type: image/png
+
+Uri: https://static.showit.co/200/ZV2JhAAXmY6dligoqNDOmQ/shared/golden_day_films_-12.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\200\ZV2JhAAXmY6dligoqNDOmQ\shared\golden_day_films_-12.png
+Content Type: image/png
+
+Uri: https://static.showit.co/2400/bCSMVXAeyN6Tr9dGK_P3kA/shared/dsc00096-3_2.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\2400\bCSMVXAeyN6Tr9dGK_P3kA\shared\dsc00096-3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/400/0jOF-HRfMbWUVs42ywIxLg/shared/golden_day_films_-5.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\400\0jOF-HRfMbWUVs42ywIxLg\shared\golden_day_films_-5.png
+Content Type: image/png
+
+Uri: https://static.showit.co/400/2e1DQekT4YNovsRTV3-oLQ/shared/golden_day_films_-7.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\400\2e1DQekT4YNovsRTV3-oLQ\shared\golden_day_films_-7.png
+Content Type: image/png
+
+Uri: https://static.showit.co/400/bSCdawcozfWVhAoq27aopg/shared/dsc00114-3_2.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\400\bSCdawcozfWVhAoq27aopg\shared\dsc00114-3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/400/bvOJaDW6f1y4AVShTM-qqA/shared/golden_day_films_-_1.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\400\bvOJaDW6f1y4AVShTM-qqA\shared\golden_day_films_-_1.png
+Content Type: image/png
+
+Uri: https://static.showit.co/400/FX8S1EyxsfzuFRpDZmYHvQ/shared/2.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\400\FX8S1EyxsfzuFRpDZmYHvQ\shared\2.png
+Content Type: image/png
+
+Uri: https://static.showit.co/400/IpcSPBu3ePcL-MhostBvIQ/shared/dsc00133-3_2.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\400\IpcSPBu3ePcL-MhostBvIQ\shared\dsc00133-3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/400/LaPzxRb5fYVcL3D1eH9E0w/shared/dsc00130-3_2.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\400\LaPzxRb5fYVcL3D1eH9E0w\shared\dsc00130-3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/400/PwcJ5FbRkoUR2LgH-h-eDQ/shared/dsc00075-3_2.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\400\PwcJ5FbRkoUR2LgH-h-eDQ\shared\dsc00075-3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/400/QNXULXusgpQxEdTjJ5BEFQ/shared/the_ramos_-_golden_day_films_2.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\400\QNXULXusgpQxEdTjJ5BEFQ\shared\the_ramos_-_golden_day_films_2.png
+Content Type: image/png
+
+Uri: https://static.showit.co/400/ReFhC1afRaA_k4uQrJKYsQ/shared/dsc00218-3_2.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\400\ReFhC1afRaA_k4uQrJKYsQ\shared\dsc00218-3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/400/VCqX7VzqJhPZ_HQGJ0vchw/shared/golden_day_films_-17.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\400\VCqX7VzqJhPZ_HQGJ0vchw\shared\golden_day_films_-17.png
+Content Type: image/png
+
+Uri: https://static.showit.co/400/X9E9ZVnMioy0XmB_r6SnrA/shared/golden_day_films_-6.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\400\X9E9ZVnMioy0XmB_r6SnrA\shared\golden_day_films_-6.png
+Content Type: image/png
+
+Uri: https://static.showit.co/400/YTFixiJKhO6eIoEj-vVkWw/shared/img_5937.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\400\YTFixiJKhO6eIoEj-vVkWw\shared\img_5937.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/800/23jBDEgh9zRzB-NEPbSsSg/shared/the_shuggs.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\800\23jBDEgh9zRzB-NEPbSsSg\shared\the_shuggs.png
+Content Type: image/png
+
+Uri: https://static.showit.co/800/G--voIXZ0IxWtu64pqkMtA/shared/golden_day_films_-15.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\800\G--voIXZ0IxWtu64pqkMtA\shared\golden_day_films_-15.png
+Content Type: image/png
+
+Uri: https://static.showit.co/800/IpcSPBu3ePcL-MhostBvIQ/shared/dsc00133-3_2.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\800\IpcSPBu3ePcL-MhostBvIQ\shared\dsc00133-3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/800/kt_wD7MIibRNzqinkq8LEQ/334783/screenshot_2026-05-06_at_4_35_24_pm.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\800\kt_wD7MIibRNzqinkq8LEQ\334783\screenshot_2026-05-06_at_4_35_24_pm.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/800/MTt5mCY2cPFThm3OAUdGew/shared/dsc06061-3_2.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\800\MTt5mCY2cPFThm3OAUdGew\shared\dsc06061-3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/800/On6XHf80vGGN-fUM3x_ytQ/shared/dsc00189-3_2.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\800\On6XHf80vGGN-fUM3x_ytQ\shared\dsc00189-3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/800/RAE2Tn0bhINMUn9whYHQ5A/shared/golden_day_films_-10.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\800\RAE2Tn0bhINMUn9whYHQ5A\shared\golden_day_films_-10.png
+Content Type: image/png
+
+Uri: https://static.showit.co/800/TKZs5csml5pvQ_2oUMEoew/shared/dsc06025-3_2.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\800\TKZs5csml5pvQ_2oUMEoew\shared\dsc06025-3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/800/wg2cZZoXweJTxUql-SbAIQ/334783/screenshot_2026-05-06_at_4_19_35_pm.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\800\wg2cZZoXweJTxUql-SbAIQ\334783\screenshot_2026-05-06_at_4_19_35_pm.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/800/x89Tv-R_Qb6HoXjkZCrHdA/shared/paper_1.jpg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\800\x89Tv-R_Qb6HoXjkZCrHdA\shared\paper_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.showit.co/800/YTQkedy2F60QPgEqmHokGQ/shared/the_pages_-_golden_day_films.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\800\YTQkedy2F60QPgEqmHokGQ\shared\the_pages_-_golden_day_films.png
+Content Type: image/png
+
+Uri: https://static.showit.co/file/-DJqFfPitgjuFHBe9UKgIQ/185374/primary_golden_day_sunshine.svg
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\-DJqFfPitgjuFHBe9UKgIQ\185374\primary_golden_day_sunshine.svg
+Content Type: image/svg+xml
+
+Uri: https://static.showit.co/file/-Xq2NQ4pdwszW3ISlvXj5Q/334783/timeline_15_1.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\-Xq2NQ4pdwszW3ISlvXj5Q\334783\timeline_15_1.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/6rmdsqALii0h9JedoVEYsQ/shared/golden_day_films_-bridal_suite_vibes.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\6rmdsqALii0h9JedoVEYsQ\shared\golden_day_films_-bridal_suite_vibes.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/6_idn_LAAvoJ-ubi6XZzIg/shared/golden_day_films_-_website_video.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\6_idn_LAAvoJ-ubi6XZzIg\shared\golden_day_films_-_website_video.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/9SdGxuhZatbpVt_Y9giIlg/shared/golden_day_films_-_2.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\9SdGxuhZatbpVt_Y9giIlg\shared\golden_day_films_-_2.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/A8G4zbLDQix2dcdE2mnukA/shared/golden_day_films_-_slow_shutter_the_roys.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\A8G4zbLDQix2dcdE2mnukA\shared\golden_day_films_-_slow_shutter_the_roys.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/fvq0R5-ysRhMvNQ98wu11Q/shared/golden-day-films-min-5.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\fvq0R5-ysRhMvNQ98wu11Q\shared\golden-day-films-min-5.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/GKSt-1FuoD_n-QMLrdhvZg/shared/golden_day_films_-_logan_and_kayle_reel_5.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\GKSt-1FuoD_n-QMLrdhvZg\shared\golden_day_films_-_logan_and_kayle_reel_5.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/HFwkQgfTKHRztR5smWpvxQ/185374/golden_day_brand_background.png
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\HFwkQgfTKHRztR5smWpvxQ\185374\golden_day_brand_background.png
+Content Type: image/png
+
+Uri: https://static.showit.co/file/IjDO8BDCQ6aSpaReUMaicQ/shared/stars_v1.gif
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\IjDO8BDCQ6aSpaReUMaicQ\shared\stars_v1.gif
+Content Type: image/gif
+
+Uri: https://static.showit.co/file/o8Qgw9QkD7BokuljRmNJXA/shared/golden-day-films-1.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\o8Qgw9QkD7BokuljRmNJXA\shared\golden-day-films-1.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/OVMLkWrr-mOmt1PIKKJBMA/shared/golden_day_films_-_roys_walking_down_the_aisle.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\OVMLkWrr-mOmt1PIKKJBMA\shared\golden_day_films_-_roys_walking_down_the_aisle.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/qFn4pVFe9Va_gRfzen07Lw/shared/golden_day_films_-liz_dress.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\qFn4pVFe9Va_gRfzen07Lw\shared\golden_day_films_-liz_dress.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/qzxd4knGKvtyeZYXBmEOeg/shared/golden_day_films-the_pages_2.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\qzxd4knGKvtyeZYXBmEOeg\shared\golden_day_films-the_pages_2.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/RD2FX64nILVDwdgVCEPM6w/shared/golden_day_films_-_logan_and_kayle_reel_6.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\RD2FX64nILVDwdgVCEPM6w\shared\golden_day_films_-_logan_and_kayle_reel_6.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/S-nDwopUIcXLl8JegKmKPA/shared/golden_day_films_-crucifix_faith_based.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\S-nDwopUIcXLl8JegKmKPA\shared\golden_day_films_-crucifix_faith_based.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/srmYtjj1U1uB5thtmr05qQ/shared/golden_day_films_-_lamb_faith_based.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\srmYtjj1U1uB5thtmr05qQ\shared\golden_day_films_-_lamb_faith_based.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/trq2KPApnnEYw8KHZLRMrA/shared/golden-day-films-min-3.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\trq2KPApnnEYw8KHZLRMrA\shared\golden-day-films-min-3.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/vb2nWuNvagWOXBPC2Fr4yQ/shared/karmasutra.woff
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\vb2nWuNvagWOXBPC2Fr4yQ\shared\karmasutra.woff
+Content Type: font/woff
+
+Uri: https://static.showit.co/file/VGcfRB-lhJ5KRqm3nTlT3w/shared/karmasutrascript.woff
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\VGcfRB-lhJ5KRqm3nTlT3w\shared\karmasutrascript.woff
+Content Type: font/woff
+
+Uri: https://static.showit.co/file/xq-h15MqGeUlBD2TcWVOUA/shared/golden-day-films-min-6.mp4
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\xq-h15MqGeUlBD2TcWVOUA\shared\golden-day-films-min-6.mp4
+Content Type: video/mp4
+
+Uri: https://static.showit.co/file/YAgaJN-ZKnxZUsKWDeOMow/185374/maisonvoyages-capsregular.woff
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\YAgaJN-ZKnxZUsKWDeOMow\185374\maisonvoyages-capsregular.woff
+Content Type: font/woff
+
+Uri: https://static.showit.co/file/YAgaJN-ZKnxZUsKWDeOMow/shared/maisonvoyages-capsregular.woff
+File Name: C:\Downloaded Web Sites\goldendayfilms.com\file\YAgaJN-ZKnxZUsKWDeOMow\shared\maisonvoyages-capsregular.woff
+Content Type: font/woff
+

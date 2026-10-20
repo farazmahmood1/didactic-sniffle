@@ -33,10 +33,14 @@ var CONTACT_EMAIL = 'hello@goldendayfilms.com';
     var lv = lb.querySelector('video');
     var close = function () { lb.classList.remove('open'); lv.pause(); lv.removeAttribute('src'); lv.load(); };
     document.querySelectorAll('.reel').forEach(function (r) {
-      r.addEventListener('click', function () {
+      var open = function () {
         lv.src = r.getAttribute('data-src');
         lb.classList.add('open');
         lv.play();
+      };
+      r.addEventListener('click', open);
+      r.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); }
       });
     });
     lb.querySelector('button').addEventListener('click', close);

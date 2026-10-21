@@ -10,8 +10,8 @@
 - Fully remote; works with videographers worldwide
 
 ## Pages
-- [Home](https://apoozofilms.com/): what Apoozo does and how it works
-- [Pricing & Process](https://apoozofilms.com/experience.html): packages, process steps and FAQ
-- [About](https://apoozofilms.com/about.html): the editing approach (real audio, interviews, toasts)
-- [Gallery](https://apoozofilms.com/gallery.html): example wedding films
-- [Contact](https://apoozofilms.com/contact.html): start a project
+- [Home](https://www.apoozofilms.com/): what Apoozo does and how it works
+- [Pricing & Process](https://www.apoozofilms.com/experience.html): packages, process steps and FAQ
+- [About](https://www.apoozofilms.com/about.html): the editing approach (real audio, interviews, toasts)
+- [Gallery](https://www.apoozofilms.com/gallery.html): example wedding films
+- [Contact](https://www.apoozofilms.com/contact.html): start a project

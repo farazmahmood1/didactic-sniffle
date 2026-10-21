@@ -1,0 +1,17 @@
+# Apoozo
+
+> Apoozo is a wedding video editing service for videographers. Videographers upload their raw footage and receive a finished, audio-driven wedding film in 7-10 days. Apoozo only edits; it does not shoot weddings.
+
+## Services and pricing (USD)
+- Wedding reel, 30-60 seconds: $120
+- Wedding highlight film: $275
+- Full wedding film, 45-60 minutes: $540
+- Turnaround: 7-10 days, usually within the first week
+- Fully remote; works with videographers worldwide
+
+## Pages
+- [Home](https://apoozofilms.com/): what Apoozo does and how it works
+- [Pricing & Process](https://apoozofilms.com/experience.html): packages, process steps and FAQ
+- [About](https://apoozofilms.com/about.html): the editing approach (real audio, interviews, toasts)
+- [Gallery](https://apoozofilms.com/gallery.html): example wedding films
+- [Contact](https://apoozofilms.com/contact.html): start a project

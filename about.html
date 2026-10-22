@@ -32,7 +32,7 @@
     <link rel="preload" href="/assets/file/vb2nWuNvagWOXBPC2Fr4yQ/shared/karmasutra.woff" as="font" type="font/woff" crossorigin>
     <script>(function(){
 var ready=true,q=[];
-function go(v){var s=v.getAttribute("data-lazy-src");if(!s)return;v.removeAttribute("data-lazy-src");var p=v.getAttribute("data-poster");if(p){v.removeAttribute("data-poster");v.poster=p;}v.src=s;v.load();var pr=v.play&&v.play();if(pr&&pr.catch)pr.catch(function(){});}
+function go(v){var s=v.getAttribute("data-lazy-src");if(!s)return;v.removeAttribute("data-lazy-src");var p=v.getAttribute("data-poster");if(p){v.removeAttribute("data-poster");v.poster=p;}v.preload="auto";v.src=s;v.load();var pr=v.play&&v.play();if(pr&&pr.catch)pr.catch(function(){});}
 function flush(){if(ready)return;ready=true;q.splice(0).forEach(go);}
 function start(v){if(ready)go(v);else q.push(v);}
 window.addEventListener("apz:reveal",function(){setTimeout(flush,600);});setTimeout(flush,14000);
